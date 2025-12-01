@@ -1,0 +1,7 @@
+# 忽略所有日志文件
+__pycache__/
+# 忽略编译生成的文件
+trace-viewer/dist/var/
+trace-viewer/dist/images/
+trace-viewer/node_modules/
+var/
